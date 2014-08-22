@@ -1,4 +1,10 @@
+# Carpetas
+
+#nueva/*
+#!nueva/7.js
+
 # Executables
+
 *.exe
 *.iso
 *.zip
