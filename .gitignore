@@ -9,3 +9,7 @@
 *.iso
 *.zip
 
+# diff
+.orig
+
+
